@@ -35,7 +35,7 @@ Lambda Login API and deploy on AWS
 		{
                    "username": "admin",
                    "password": "password123"
-		}
+		}		
 	- Send the request.
 
 	You should receive a JSON response indicating whether the login was successful or if the credentials were invalid.
